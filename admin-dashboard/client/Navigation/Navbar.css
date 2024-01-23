@@ -1,0 +1,17 @@
+.container {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 3rem;
+  justify-content: right;
+}
+
+li {
+  list-style: none;
+  list-style-type: none;
+}
